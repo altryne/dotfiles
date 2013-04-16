@@ -1,10 +1,6 @@
 # Compiled Python files
 *.pyc
 
-# Folder view configuration files
-.DS_Store
-Desktop.ini
-
 # Thumbnail cache files
 ._*
 Thumbs.db
@@ -12,3 +8,21 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+
+# intelliJ files 
+.idea
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+Desktop.ini
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+
+## ignore .extra file with all my private info from getting commited
+.extra
